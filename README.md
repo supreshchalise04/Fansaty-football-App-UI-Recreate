@@ -17,19 +17,22 @@ This mobile UI design replicates core features of fantasy football platforms lik
 
 ## 📸 Screenshots
 
-### 🔐 Sign Up Screen
-![Sign up](./sign-up.png)
+### 🔐 Sign-Up Screen
+![Sign-Up Screen](./sign-up-screen.png)
 
-### ⚽ Team Management Screen
-![My Team](/teamname.png)
+### ⚽ Team Management View
+![Team Management](./team-management.png)
+
+### 📅 Fixtures Overview
+![Fixture View](./fixture-overview.png)
+
 
 ## 📹 Interactive Prototype
 
-View the live Figma prototype here:
-
+View the live Figma prototype here:  
 👉 [**Figma Live Preview**](https://embed.figma.com/proto/KUQm4G7Se26wYDOsK2IBNE/Untitled?node-id=10-126&p=f&scaling=scale-down&content-scaling=fixed&page-id=6%3A52&starting-point-node-id=10%3A126&embed-host=share)
 
-Or embed it in your browser:
+Or embed it in HTML:
 
 ```html
 <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/proto/KUQm4G7Se26wYDOsK2IBNE/Untitled?node-id=10-126&p=f&scaling=scale-down&content-scaling=fixed&page-id=6%3A52&starting-point-node-id=10%3A126&embed-host=share" allowfullscreen></iframe>
