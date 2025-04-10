@@ -21,7 +21,7 @@ This mobile UI design replicates core features of fantasy football platforms lik
 ![Sign up](./sign-up.png)
 
 ### ⚽ Team Management Screen
-![My Team](./mockrocket-capture.png)
+![My Team](/teamname.png)
 
 ## 📹 Interactive Prototype
 
