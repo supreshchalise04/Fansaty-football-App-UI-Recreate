@@ -18,10 +18,7 @@ This mobile UI design replicates core features of fantasy football platforms lik
 ## 📸 Screenshots
 
 ### 🔐 Sign-Up Screen
-![Sign-Up Screen](./sign-up-screen.png)
-
-### ⚽ Team Management View
-![Team Management](./team-management.png)
+![Sign-Up Screen](./sign-up-screen.png)    ### ⚽ Team Management View   ![Team Management](./team-management.png)
 
 ### 📅 Fixtures Overview
 ![Fixture View](./fixture-overview.png)
